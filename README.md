@@ -1,2 +1,2 @@
-# poet
-the POSIX sh text editor
+# `poet`
+[image here!]
